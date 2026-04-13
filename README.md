@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Angel
+# Hey there! I'm Angel
 
-### 🔐 Cybersecurity Student | Offensive Security Enthusiast | Developer
+### Cybersecurity Student | Offensive Security Enthusiast | Developer
 
 <a href="https://tryhackme.com/p/0x9Angel"><img src="https://img.shields.io/badge/TryHackMe-0x9Angel-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 Cybersecurity student specialized in **advanced web & infrastructure pentesting** and **SOC operations**. I build custom offensive security tools in **Rust** and **Python**, and I actively participate in CTF competitions.
 
@@ -22,21 +22,21 @@ I'm passionate about breaking things to understand how they work — then making
 
 ---
 
-### 🔭 Currently Working On
+### Currently Working On
 
-- 🔒 **Encrypted messaging app** — secure-by-design, inspired by SimpleX protocol
-- 🦀 **Custom offensive tooling** in Rust
-- 🧪 **Security research** — web exploitation, infrastructure attacks
+- **Encrypted messaging app** — secure-by-design, inspired by SimpleX protocol
+- **Custom offensive tooling** in Rust
+- **Security research** — web exploitation, infrastructure attacks
 
 ---
 
-### 💬 Ask Me About
+### Ask Me About
 
 Pentesting (Web & Infra), Red Teaming, Linux Administration, Network Security, Forensics, CTF strategies.
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 #### Languages
 <p>
