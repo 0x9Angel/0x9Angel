@@ -2,7 +2,7 @@
 
 ### 🔐 Cybersecurity Student | Offensive Security Enthusiast | Developer
 
-<a href="https://tryhackme.com/p/0x9Angel"><img src="https://tryhackme-badges.s3.amazonaws.com/0x9Angel.png" alt="TryHackMe Badge"/></a>
+<a href="https://tryhackme.com/p/0x9Angel"><img src="https://img.shields.io/badge/TryHackMe-0x9Angel-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 
 ---
 
@@ -61,7 +61,7 @@ Pentesting (Web & Infra), Red Teaming, Linux Administration, Network Security, F
 ---
 
 <p align="center">
-  <a href="https://tryhackme.com/p/0x9Angel"><img src="https://img.shields.io/badge/TryHackMe-0x9Angel-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <a href="https://tryhackme.com/p/0x9Angel"><img src="https://img.shields.io/badge/Check%20my%20TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/></a>
 </p>
 
 <p align="center">
