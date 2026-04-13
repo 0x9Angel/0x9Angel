@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-Cybersecurity student at **YNOV Campus Toulouse**, specialized in **advanced web & infrastructure pentesting** and **SOC operations**. I build custom offensive security tools in **Rust** and **Python**, and I actively participate in CTF competitions.
+Cybersecurity student specialized in **advanced web & infrastructure pentesting** and **SOC operations**. I build custom offensive security tools in **Rust** and **Python**, and I actively participate in CTF competitions.
 
 I'm passionate about breaking things to understand how they work — then making them stronger.
 
@@ -58,21 +58,12 @@ Pentesting (Web & Infra), Red Teaming, Linux Administration, Network Security, F
 
 ---
 
-### 📫 Get in Touch
-
-<p>
-  <a href="https://linkedin.com/in/angel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>&nbsp;
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>&nbsp;
-</p>
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0x9Angel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x9Angel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
