@@ -2,6 +2,8 @@
 
 ### 🔐 Cybersecurity Student | Offensive Security Enthusiast | Developer
 
+<a href="https://tryhackme.com/p/0x9Angel"><img src="https://tryhackme-badges.s3.amazonaws.com/0x9Angel.png" alt="TryHackMe Badge"/></a>
+
 ---
 
 ![Pentesting](https://img.shields.io/badge/Pentesting-Advanced-red?style=for-the-badge)
@@ -59,14 +61,8 @@ Pentesting (Web & Infra), Red Teaming, Linux Administration, Network Security, F
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x9Angel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://tryhackme.com/p/0x9Angel"><img src="https://img.shields.io/badge/TryHackMe-0x9Angel-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x9Angel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">
   <i>Breaking things to make them stronger. 🔓</i>
