@@ -2,8 +2,6 @@
 
 ### Cybersecurity Student · Offensive Security · Systems & Cryptography Engineer
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0x9Angel.png)](https://tryhackme.com/p/0x9Angel)
-
 ![Pentesting](https://img.shields.io/badge/-Pentesting-1f1f1f?style=flat-square&logo=hackthebox&logoColor=white)
 ![Offensive Security](https://img.shields.io/badge/-Offensive%20Security-c00?style=flat-square)
 ![SOC](https://img.shields.io/badge/-SOC-1f6feb?style=flat-square)
@@ -99,13 +97,6 @@ Red-team utilities in Rust and Python — CTF write-ups, web exploitation primit
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-004088?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
----
-
-##  GitHub Stats
-
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x9Angel&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x9Angel&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
