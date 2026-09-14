@@ -22,7 +22,7 @@ A production-grade end-to-end encrypted messaging platform for European enterpri
 * Community edition published; relay operators are being onboarded and the network is not yet operator-diverse (see Gotham below — I state this plainly rather than claim anonymity the deployment cannot deliver).
 * Target customers: French/EU defense industrials, regulated industries, public institutions, investigative journalism.
 
-Product site: [crypto-app.net](https://crypto-app.net) · Build log: [crypto-organisation.netlify.app](https://crypto-organisation.netlify.app)
+Product site: [crypto-app.net](https://crypto-app.net) · 
 
 ### Gotham: custom post-quantum mixnet protocol
 
