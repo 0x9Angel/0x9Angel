@@ -1,4 +1,4 @@
-# Hey there! I'm Angel 👋
+# Hey there! I'm Angel 
 
 **Cybersecurity Student · Offensive Security · Systems & Cryptography · Freelance Web & E-commerce Dev**
 
