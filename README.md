@@ -35,7 +35,7 @@ The transport layer underneath Amon Messenger: a Sphinx-format mixnet I designed
 
 ### Open source
 
-The network code is public under AGPL-3.0: [0x9Angel/gotham](https://github.com/0x9Angel/gotham). The app's code goes public with version 2.6.0, together with the 0.13.0 relays. A commercial licence exists for organisations that cannot use the AGPL.
+The network code is public under AGPL-3.0: [0x9Angel/amon-network](https://github.com/0x9Angel/amon-network). The app's code goes public with version 2.6.0, together with the 0.13.0 relays. A commercial licence exists for organisations that cannot use the AGPL.
 
 ### Side projects
 
@@ -106,13 +106,13 @@ The network code is public under AGPL-3.0: [0x9Angel/gotham](https://github.com/
 The network needs independent operators more than anything else. A small VPS with a public IP is enough, and a relay behind CGNAT works too, without port forwarding.
 
 ```sh
-git clone https://github.com/0x9Angel/gotham-relay
-cd gotham-relay
+git clone https://github.com/0x9Angel/amon-relay
+cd amon-relay
 GOTHAM_OPERATOR=<your public nickname> GOTHAM_TIER=mix GOTHAM_ENROLL_TOKEN=<token> \
   sudo -E ./infra/scripts/install-relay.sh
 ```
 
-Enrolment is closed for now: write to SoraCorporation@proton.me for a token. Read the [operator guide](https://github.com/0x9Angel/gotham-relay/blob/main/OPERATOR-GUIDE.md) and the [abuse FAQ](https://github.com/0x9Angel/gotham-relay/blob/main/ABUSE-FAQ.md) first: they say exactly what your machine would store and expose, including the parts that are not flattering.
+Enrolment is closed for now: write to SoraCorporation@proton.me for a token. Read the [operator guide](https://github.com/0x9Angel/amon-relay/blob/main/OPERATOR-GUIDE.md) and the [abuse FAQ](https://github.com/0x9Angel/amon-relay/blob/main/ABUSE-FAQ.md) first: they say exactly what your machine would store and expose, including the parts that are not flattering.
 
 ## Get in Touch
 
