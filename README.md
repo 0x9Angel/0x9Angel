@@ -37,11 +37,6 @@ The transport layer underneath Amon Messenger: a Sphinx-format mixnet I designed
 
 The network code is public under AGPL-3.0: [0x9Angel/amon-network](https://github.com/0x9Angel/amon-network). The app's code goes public with version 2.6.0, together with the 0.13.0 relays. A commercial licence exists for organisations that cannot use the AGPL.
 
-### Side projects
-
-* **Nyx**: a systems language in Rust with a Cranelift backend, affine types and lexical borrow checking.
-* **Encrypted DNS client**: Oblivious DNS-over-HTTPS (RFC 9230) in Rust, with HPKE and a local stub resolver.
-
 ## Studies
 
 * Bachelor in Cybersecurity, Ynov Toulouse (in progress).
