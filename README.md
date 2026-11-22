@@ -103,7 +103,7 @@ The network needs independent operators more than anything else. A small VPS wit
 ```sh
 git clone https://github.com/0x9Angel/amon-relay
 cd amon-relay
-GOTHAM_OPERATOR=<your public nickname> GOTHAM_TIER=mix GOTHAM_ENROLL_TOKEN=<token> \
+AMON_OPERATOR=<your public nickname> AMON_TIER=mix AMON_ENROLL_TOKEN=<token> \
   sudo -E ./infra/scripts/install-relay.sh
 ```
 
